@@ -1,7 +1,7 @@
 # ATM Development Engineer
 
 #### Summary: 
-Experiencing over 3 years on ATM repair process administration. I have good insight in ATM business from, product development, logistics, and supply chain. I always eager in new challanges.
+Experiencing over 3 years on ATM repair process administration. I have good insight in ATM business from product development, logistics, to supply chain. I always eager in new challanges.
 
 
 #### Technical Skills:
@@ -17,7 +17,7 @@ Experiencing over 3 years on ATM repair process administration. I have good insi
 
 
 ## 💼 Work experience 
-**Diebold Nixdorf Indonesi**
+**Diebold Nixdorf Indonesi**  
 **Repair Center Administration Staff**
 - Checking and preparing defective modules according to order document.
 - Registering and/or collecting uncompleted parts or fraud information about defective modules.
@@ -29,7 +29,7 @@ Experiencing over 3 years on ATM repair process administration. I have good insi
 - Do monthly cycle count and annual stock opname for repair center's small parts.
 - Create a procurement for zero stock small parts.
 
-**Kapiler Indonesia**
+**Kapiler Indonesia**  
 **PIC of Programme Main ke Panti**
 - Survey and assessment to orphanage
 - Create a playful and positive activity
