@@ -59,7 +59,7 @@ between volunteer and beneficiaries
 | **Name:** | **Cahyo Wibiwo** |
 | **Position:** | Head of ATM Managed Services |
 | **Organization:** | Brink's, Indonesia |
-| **E-mail:** | <a href="mailto:cahyo.wibow@brinks.com">cahyo.wibow@brinks.com</a> |
+| **E-mail:** | <a href="mailto:cahyo.wibowo@brinks.com">cahyo.wibowo@brinks.com</a> |
 
 
 ## 📞 Contact
