@@ -35,12 +35,12 @@ between volunteer and beneficiaries
 (children ophrans).
 - Volunteer Engagement
 
-**Additional Skills:**
+**Certification:**
   
-- Git/GitHub for version control and collaborative coding.
-- High performance computing on clusters for scalable data analysis.
-- Bioconductor for analyzing genomic/transcriptomic experiments.
-- Workflow automation to enhance reproducibility and to faster workflow. 
+**Logistic & Supply Chain Management**, PLH Universitas Pelita Harapan, Issued Aug 2023.
+**PHP & MySQL Certification**, Udemy Issued Jun 2023.  
+**Long Line Fishing Operator**, Badan Nasional Sertifikasi Profesi, Issued Jun 2019. 
+**One Star Scuba Diver**, CMAS - Word Underwater Federation, Issued Oct 2012.
 
 ## 📚 References
 
