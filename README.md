@@ -12,21 +12,28 @@ Experiencing over 3 years on ATM repair process administration. I have good insi
 - Testing: _Postman and GongMi_
   
 ## 🎓 Education
-- **Bachelor Degree**, Fisheries Resource Utilization | <a href="https://tnau.ac.in/](https://usni.ac.id/v1/)" target="_blank">Satya Negara Indonesia University</a> GPA 3,31 (_Oct 2019_)		  		
+**Bachelor Degree**, Fisheries Resource Utilization | <a href="https://tnau.ac.in/](https://usni.ac.id/v1/)" target="_blank">Satya Negara Indonesia University</a> GPA 3,31 (_Oct 2019_)		  		
 
 ## 💼 Work experience 
-**Data Science Consultant @ <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Fiverr</a> (_Decembe 2020 - Present_)**
-- 5⭐ rated freelancer with over 200 hours of data analysis and visualization projects completed in R with over six years of experience specializing in genomic data analysis and bioinformatics.
-- Proficient in handling big data and performing complex modelling using popular R libraries and packages such as tidyr, data.table, dplyr, plyr, tenserflow, ggplot, ggdendro, ggtree, ggheatmap, and circos. 
-- Received positive feedback from clients for knowledge, professionalism, and mastery of R programming. Demonstrated ability to deliver high-quality work as evidenced by the portfolio available on the <a href="https://www.fiverr.com/allanvictor_?public_mode=true" target="_blank">Profile</a>. 
+**Diebold Nixdorf Indonesi**
+**Repair Center Administration Staff**
+- Checking and preparing defective modules according to order document.
+- Registering and/or collecting uncompleted parts or fraud information about defective modules.
+- Providing defective modules ticket to repair engineer and make a daily report.
+- Reporting the result of defective modules refurbishment by SAP.
+- Provide and create monthly report related to yeild quantity of monthly production, employee utilization rate, DoA and repeated return rate, and employee's monthly incentive plan.
+- Bin location mapping for small parts.
+- Do ticket design improvement for effectiveness and effeciency workflow.
+- Do monthly cycle count and annual stock opname for repair center's small parts.
+- Create a procurement for zero stock small parts.
 
-## 💻 Programming and data analysis skills
-- Proficient in full stack development of **R packages** using modular coding practices.
-- Created **production-grade Shiny web applications** for interactive data analysis and visualization and; expertise in dependency management tools like Golem for scalable deployment.
-- **Machine learning model** building for image classification/segmentation tasks; trained CNNs and other deep learning architectures in R, Python (PyCharm).
-- **Multivariate data analysis** of large-scale omics datasets including genomics, phenomics and metabolomics using cutting-edge bioinformatics tools.
-- Experience with analysis of **next-generation sequencing** data including quality control, read mapping, variant calling, expression quantification, metagenomic profiling, and associated statistical analysis using standard workflows in R and Python.
-- **Advanced visualization** for multi-dimensional biological data through Circos, ggtree, ggtreeextra, Cytoscape and other platforms.
+**Kapiler Indonesia**
+**PIC of Programme Main ke Panti**
+- Survey and assessment to orphanage
+- Create a playful and positive activity
+between volunteer and beneficiaries
+(children ophrans).
+- Volunteer Engagement
 
 **Additional Skills:**
   
