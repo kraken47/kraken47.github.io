@@ -47,9 +47,16 @@ between volunteer and beneficiaries
 |     |     |
 |:----|:----|
 | **Name:** | **Suhari** |
-| **Position:** | Repair Center Head |
+| **Position:** | Head of Repair Center |
 | **Organization:** | Diebold Nixdorf, Indonesia |
 | **E-mail:** | <a href="mailto:suhari.suhari@dieboldnixdorf.com">suhari.suhari@dieboldnixdorf.com</a> |
+
+|     |     |
+|:----|:----|
+| **Name:** | **Cahyo Wibiwo** |
+| **Position:** | Head of ATM Managed Services |
+| **Organization:** | Brink's, Indonesia |
+| **E-mail:** | <a href="mailto:cahyo.wibow@brinks.com">cahyo.wibow@brinks.com</a> |
 
 
 ## 📞 Contact
