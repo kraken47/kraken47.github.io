@@ -14,8 +14,8 @@ Experiencing over 3 years on ATM repair process administration. I have good insi
 
   
 ## 🎓 Education
-**Bachelor Degree**, Fisheries Resource Utilization | <a href="https://tnau.ac.in/](https://usni.ac.id/v1/)" target="_blank">Satya Negara Indonesia University</a> GPA 3,31 (_Oct 2019_)	
-**Developer Bootcamp**, Praxislabs, NodeJS Backend Bootcamp.
+- **Bachelor Degree**, Fisheries Resource Utilization | <a href="https://tnau.ac.in/](https://usni.ac.id/v1/)" target="_blank">Satya Negara Indonesia University</a> GPA 3,31 (_Oct 2019_)	
+- **Developer Bootcamp**, Praxislabs, NodeJS Backend Bootcamp.
 
 
 ## 💼 Work experience 
