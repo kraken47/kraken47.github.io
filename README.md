@@ -19,7 +19,7 @@ Experiencing over 3 years on ATM repair process administration. I have good insi
 
 ## 💼 Work experience 
 **Diebold Nixdorf Indonesi**  
-**Repair Center Administration Staff**
+_Repair Center Administration Staff | Mar 2020 - Dec 2023_
 - Checking and preparing defective modules according to order document.
 - Registering and/or collecting uncompleted parts or fraud information about defective modules.
 - Providing defective modules ticket to repair engineer and make a daily report.
@@ -31,7 +31,7 @@ Experiencing over 3 years on ATM repair process administration. I have good insi
 - Create a procurement for zero stock small parts.
 
 **Kapiler Indonesia**  
-**PIC of Programme Main ke Panti**
+_PIC of Programme Main ke Panti | Jul - Nov 2019_
 - Survey and assessment to orphanage
 - Create a playful and positive activity
 between volunteer and beneficiaries
