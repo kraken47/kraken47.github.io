@@ -10,9 +10,11 @@ Experiencing over 3 years on ATM repair process administration. I have good insi
 - Database: _MongoDB, MySQL, and SQLite3_
 - Design: _Adobe Photoshop, Adobe Illustrator, Google Sketch Up and Canva_
 - Testing: _Postman and GongMi_
+
   
 ## 🎓 Education
 **Bachelor Degree**, Fisheries Resource Utilization | <a href="https://tnau.ac.in/](https://usni.ac.id/v1/)" target="_blank">Satya Negara Indonesia University</a> GPA 3,31 (_Oct 2019_)		  		
+
 
 ## 💼 Work experience 
 **Diebold Nixdorf Indonesi**
@@ -37,10 +39,11 @@ between volunteer and beneficiaries
 
 **Certification:**
   
-**Logistic & Supply Chain Management**, PLH Universitas Pelita Harapan, Issued Aug 2023.
-**PHP & MySQL Certification**, Udemy Issued Jun 2023.  
-**Long Line Fishing Operator**, Badan Nasional Sertifikasi Profesi, Issued Jun 2019. 
-**One Star Scuba Diver**, CMAS - Word Underwater Federation, Issued Oct 2012.
+- **Logistic & Supply Chain Management**, PLH Universitas Pelita Harapan, Issued Aug 2023.
+- **PHP & MySQL Certification**, Udemy Issued Jun 2023.  
+- **Long Line Fishing Operator**, Badan Nasional Sertifikasi Profesi, Issued Jun 2019. 
+- **One Star Scuba Diver**, CMAS - Word Underwater Federation, Issued Oct 2012.
+
 
 ## 📚 References
 
