@@ -10,6 +10,7 @@ Experiencing over 3 years on ATM repair process administration. I have good insi
 - Database: _MongoDB, MySQL, and SQLite3_
 - Design: _Adobe Photoshop, Adobe Illustrator, Google Sketch Up and Canva_
 - Testing: _Postman and GongMi_
+- Microsoft: _Advanced Excel, Word, and Power Point 
 
   
 ## 🎓 Education
